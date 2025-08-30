@@ -84,7 +84,7 @@ export const ProductShowcase = () => {
 
             <div className="flex gap-4 mt-8 ">
               <a
-                href="https://instagram.com/ashugill.prsnl"
+                href="https://instagram.com/ashnevoss"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-6 py-2 rounded-lg bg-white text-black font-semibold shadow-md hover:shadow-lg hover:scale-105 transition-transform"
