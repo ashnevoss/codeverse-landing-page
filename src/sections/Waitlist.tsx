@@ -78,7 +78,7 @@ export default function WaitlistSection() {
       <div className="mx-auto max-w-5xl px-6">
         <div className="mb-8 flex flex-col items-center text-center">
           <span className="inline-flex items-center justify-center rounded-full border border-white/10 bg-white/5 px-5 py-3 text-base font-medium text-white/70 sm:text-lg">
-            Enrolment's are already open
+            Enrolment&apos;s are already open
           </span>
 
           <h2 className="mt-6 text-center font-bold text-white leading-tight text-5xl md:text-6xl max-w-full sm:max-w-[900px] mx-auto">
