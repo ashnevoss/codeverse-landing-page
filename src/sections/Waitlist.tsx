@@ -86,8 +86,8 @@ export default function WaitlistSection() {
           </h2>
 
           <p className="mt-4 text-lg leading-8 text-white/70 max-w-prose">
-            Seats are limited. Join the waitlist to get early access, priority updates, and a launch-day bonus for the first cohort starting on{" "}
-            <strong className="text-white">September 1, 2025</strong>.
+            Seats are limited. Join the waitlist to get early access, priority updates, and a launch-day bonus for our next cohort{" "}
+            <strong className="text-white">starting soon.</strong>
           </p>
         </div>
 
