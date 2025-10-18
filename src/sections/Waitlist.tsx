@@ -82,12 +82,11 @@ export default function WaitlistSection() {
           </span>
 
           <h2 className="mt-6 text-center font-bold text-white leading-tight text-5xl md:text-6xl max-w-full sm:max-w-[900px] mx-auto">
-            Be first in line for classes
+            Ready to Start Your Coding Journey?
           </h2>
 
           <p className="mt-4 text-lg leading-8 text-white/70 max-w-prose">
-            Seats are limited. Join the waitlist to get early access, priority updates, and a launch-day bonus for our next cohort{" "}
-            <strong className="text-white">starting soon.</strong>
+            Seats are limited. Join the Waitlist below to secure your spot for upcoming live coaching sessions and receive timely updates. Our classes are interactive, supportive, and personalized — designed to help you achieve your goals in real time.{" "}
           </p>
         </div>
 
